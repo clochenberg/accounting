@@ -2,7 +2,7 @@
 #### _Version 1.5.5_
 
 Spectech Accounting is a self-hosted open source application for managing your invoices, clients and payments.    
-For more information visit __[SpecTech-IT.co.za](http://www.spectech-it.co.za)__ or try the __[demo](http://demoacc.spectech-it.co.za/)__.
+For more information visit __[spectech-it.co.za](http://www.spectech-it.co.za)__ or try the __[demo](http://demoacc.spectech-it.co.za/)__.
 
 ---
 
