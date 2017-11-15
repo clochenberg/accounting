@@ -33,12 +33,8 @@ If you want to install SpecTech Accounting in a subfolder (e.g. `http://your-acc
 
 Need some help or want to talk with other about SpecTech Accounting? Follow these links to get in touch.
 
-[![Website](https://img.shields.io/badge/Help%3A-Official%20Wiki-429ae1.svg)](http://www.spectech-it.co.za/contact.html)  
-[![Email](https://img.shields.io/badge/Help%3A-Community%20Forums-429ae1.svg)](mailto:info@spectech-it.co.za)  
-[![Slack Chat](https://img.shields.io/badge/Development%3A-Slack%20Chat-429ae1.svg)](https://invoiceplane-slack.herokuapp.com/)  
-[![Issue Tracker](https://img.shields.io/badge/Development%3A-Issue%20Tracker-429ae1.svg)](https://development.invoiceplane.com/)  
-[![Roadmap](https://img.shields.io/badge/Development%3A-Roadmap-429ae1.svg)](https://go.invoiceplane.com/roadmapv1)  
-[![Contribution Guide](https://img.shields.io/badge/Development%3A-Contribution%20Guide-429ae1.svg)](CONTRIBUTING.md)  
+[![Website](https://img.shields.io/badge/Help-Website-red.svg)](http://www.spectech-it.co.za/contact.html)  
+[![Email](https://img.shields.io/badge/Help-Email-red.svg)](mailto:info@spectech-it.co.za) 
 
 ---
 
@@ -49,5 +45,5 @@ All security vulnerabilities will be promptly addressed.
 
 ---
 
-> _The name 'SpecTech Accounting' and the SpecTech logo are both copyright by Christo Lochenberg and www.spectech-it.co.za
+> The name 'SpecTech Accounting' and the SpecTech logo are both copyright by Christo Lochenberg and www.spectech-it.co.za
 and their usage is restricted! For more information visit http://www.spectech-it.co.za/license.html
